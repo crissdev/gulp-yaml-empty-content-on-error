@@ -1,0 +1,11 @@
+{
+  "name": "gulp-yaml-empty-content-test",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.0.1",
+    "gulp-plumber": "^1.2.0",
+    "gulp-yaml": "^2.0.1"
+  }
+}
